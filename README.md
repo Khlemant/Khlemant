@@ -3,7 +3,7 @@
 
 - 🌱 Je suis actuellement en DUT Informatique à DIJON
 - 📫 Comment me contacter? 
-      Par mail : ehinger.clement@gmail.com
-      Par Instagram : Clempouet
-      Par Twitter : Khlemant
+      _Par mail : ehinger.clement@gmail.com
+      _Par Instagram : Clempouet
+      _Par Twitter : Khlemant
 - 😄 Pronouns: ...
