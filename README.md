@@ -24,6 +24,9 @@ _______________________________________________
 </a>
 <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language">![icons8_sql_48px](https://user-images.githubusercontent.com/85050290/122617720-136feb00-d08d-11eb-92e8-dd6849d65c67.png)
 </a>
+<a href="https://fr.wikipedia.org/wiki/Python_(langage)">![icons8_py_64px](https://user-images.githubusercontent.com/85050290/151285370-757c79da-d7a1-4575-9e94-1759ba04f42a.png)
+)
+</a>
 _______________________________________________
 ### Réseaux sociaux :
 <a href="https://www.instagram.com/clempouet/">![icons8_instagram_48px](https://user-images.githubusercontent.com/85050290/122617557-c55ae780-d08c-11eb-9863-1edee8abb9f8.png)
