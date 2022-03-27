@@ -30,7 +30,5 @@ _______________________________________________
 </a>
 _______________________________________________
 ### Réseaux sociaux :
-<a href="https://www.instagram.com/clempouet/">![icons8_instagram_48px](https://user-images.githubusercontent.com/85050290/122617557-c55ae780-d08c-11eb-9863-1edee8abb9f8.png)
-</a>
-<a href="https://twitter.com/Khlemant">![icons8_twitter_48px](https://user-images.githubusercontent.com/85050290/122617545-bf650680-d08c-11eb-98d1-c7ce31d207f1.png)
+<a href="https://www.linkedin.com/in/clément-ehinger-b4453422a/">![icons8_linkedin_64px](https://user-images.githubusercontent.com/85050290/160295905-d705340a-6b73-418b-8c2d-fe492b2b08f6.png)
 </a>
