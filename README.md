@@ -1,6 +1,6 @@
 ### Bonjour, je m'appelle Clément EHINGER, et j'ai 20 ans! 👋
 _______________________________________________
-### Développeur Web et Software
+### Je suis développeur Web et Software
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
 J'ai décidé d'en apprendre les technologies, les différents langages, et de me spécialiser dans le developpement web et le développement logiciel.
 
@@ -14,8 +14,6 @@ _______________________________________________
 <a href="https://fr.wikipedia.org/wiki/JavaScript">![icons8_js_64px](https://user-images.githubusercontent.com/85050290/160290717-be07ad45-abb0-4e13-ac3d-603b24b25d3c.png)
 </a>
 <a href="https://fr.wikipedia.org/wiki/PHP">![icons8_php_64px](https://user-images.githubusercontent.com/85050290/151285597-77e322fb-6436-4771-861b-d0441257515c.png)
-</a>
-<a href="https://fr.wikipedia.org/wiki/Java_(langage)">![icons8_java_64px](https://user-images.githubusercontent.com/85050290/151285587-f27ebd52-a287-4c44-be09-6f756d322ac8.png)
 </a>
 <a href="https://fr.wikipedia.org/wiki/C_sharp">![icons8_cs_64px](https://user-images.githubusercontent.com/85050290/151285579-88227ce0-5dbf-4a23-b196-e21fead30d38.png)
 </a>
