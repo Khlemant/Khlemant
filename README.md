@@ -1,11 +1,8 @@
-### Bonjour, je m'appelle Clément EHINGER 👋
+### Bonjour, je m'appelle Clément EHINGER, et j'ai 20 ans! 👋
 _______________________________________________
-### Je suis étudiant en DUT Informatique à l'IUT de Dijon
-![icons8_computer_16px](https://user-images.githubusercontent.com/85050290/122618195-0dc6d500-d08e-11eb-8699-22c355fc4164.png) Je suis actuellement en DUT Informatique à DIJON
-
-![icons8_goal_16px](https://user-images.githubusercontent.com/85050290/122618181-030c4000-d08e-11eb-81cb-f068798a859b.png) J'aimerais travailler dans le développement web, le développement de logiciels PC et d'applications mobiles, et pourquoi pas dans le jeux vidéo.
-
-![icons8_son_16px](https://user-images.githubusercontent.com/85050290/122618148-f1c33380-d08d-11eb-857d-f3030cb32822.png) Passionné d'Informatique depuis tout jeune, j'ai décidé de poursuivre mes études dans ce domaine en 2020.
+### Développeur Web et Software
+Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
+J'ai décidé d'en apprendre les technologies, les différents langages, et de me spécialiser dans le developpement web et le développement logiciel.
 
 _______________________________________________
 ### Languages maitrisés :
