@@ -4,7 +4,7 @@
 _______________________________________________
 ### Je suis développeur!
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
-J'ai décidé d'en apprendre les technologies, les différents langages, et de me spécialiser dans le developpement web et le développement logiciel.
+J'ai décidé d'en apprendre les technologies et ses différents langages
 
 _______________________________________________
 ### Languages maitrisés :
@@ -28,4 +28,7 @@ _______________________________________________
 _______________________________________________
 ### Réseaux sociaux :
 <a href="https://www.linkedin.com/in/clément-ehinger-b4453422a/">![icons8_linkedin_64px](https://user-images.githubusercontent.com/85050290/160295905-d705340a-6b73-418b-8c2d-fe492b2b08f6.png)
+</a>
+<a href="https://twitter.com/iqcehinger">![icons8-twitter-48](https://user-images.githubusercontent.com/85050290/199423179-d6b890e9-4f4b-4480-a199-92cb03284afa.png)
+ (https://user-images.githubusercontent.com/85050290/160295905-d705340a-6b73-418b-8c2d-fe492b2b08f6.png)
 </a>
