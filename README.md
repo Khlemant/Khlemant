@@ -1,4 +1,4 @@
-### Bonjour, je m'appelle Clément EHINGER, et j'ai 20 ans! 👋
+### Bienvenue sur ma page GitHub! 👋
 
 <a href="https://app.daily.dev/khlemant"><img src="https://api.daily.dev/devcards/3467bfa6679e4d5aad19bdba16ac1cf3.png?r=fsn" width="200" alt="Clément EHINGER's Dev Card"/></a>
 _______________________________________________
