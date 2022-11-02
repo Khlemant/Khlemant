@@ -1,7 +1,7 @@
 ### Bienvenue sur ma page GitHub! 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cehinger&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cehinger&theme=dracula)
 _______________________________________________
 ### Je suis développeur!
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
