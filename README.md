@@ -1,12 +1,9 @@
 ### Bienvenue sur ma page GitHub! 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cehinger&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cehinger&theme=tokyonight)
 _______________________________________________
 ### Je suis développeur!
-Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
-J'ai décidé d'en apprendre les technologies et ses différents langages
-
 
 J'ai comme passion le développement en tout genre, allant du simple site vitrine, au jeu vidéo, en passant par les logiciels. Je début dans le monde du travail et du freelance, mais je compte bien progresser et acquérir de l'expérience au fil du temps. Depuis Septembre 2022, je travaille seul sur un nouveau jeu de surive, testant mes limites et exploitant mes connaissances.
 
