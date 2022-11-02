@@ -1,6 +1,6 @@
 ### Bonjour, je m'appelle Clément EHINGER, et j'ai 20 ans! 👋
 _______________________________________________
-### Je suis développeur Web et Software
+### Je suis développeur!
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
 J'ai décidé d'en apprendre les technologies, les différents langages, et de me spécialiser dans le developpement web et le développement logiciel.
 
