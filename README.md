@@ -27,8 +27,7 @@ _______________________________________________
 </a>
 _______________________________________________
 ### Réseaux sociaux :
-<a href="https://www.linkedin.com/in/clément-ehinger-b4453422a/">![icons8_linkedin_64px](https://user-images.githubusercontent.com/85050290/160295905-d705340a-6b73-418b-8c2d-fe492b2b08f6.png)
+<a href="https://www.linkedin.com/in/clément-ehinger-b4453422a/">![icons8-linkedin-entouré-48](https://user-images.githubusercontent.com/85050290/199423333-d9951913-e1ee-4703-a5af-984d65533e89.png)
 </a>
 <a href="https://twitter.com/iqcehinger">![icons8-twitter-48](https://user-images.githubusercontent.com/85050290/199423179-d6b890e9-4f4b-4480-a199-92cb03284afa.png)
- (https://user-images.githubusercontent.com/85050290/160295905-d705340a-6b73-418b-8c2d-fe492b2b08f6.png)
 </a>
