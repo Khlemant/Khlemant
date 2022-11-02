@@ -1,6 +1,6 @@
 ### Bonjour, je m'appelle Clément EHINGER, et j'ai 20 ans! 👋
 
-<a href="https://app.daily.dev/khlemant"><img src="https://api.daily.dev/devcards/3467bfa6679e4d5aad19bdba16ac1cf3.png?r=qg9" width="400" alt="Clément EHINGER's Dev Card"/></a>
+<a href="https://app.daily.dev/khlemant"><img src="https://api.daily.dev/devcards/3467bfa6679e4d5aad19bdba16ac1cf3.png?r=qg9" width="200" alt="Clément EHINGER's Dev Card"/></a>
 _______________________________________________
 ### Je suis développeur!
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
