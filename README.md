@@ -1,12 +1,13 @@
 ### Bienvenue sur ma page GitHub! 👋
 
-<a href="https://app.daily.dev/khlemant"><img src="https://api.daily.dev/devcards/3467bfa6679e4d5aad19bdba16ac1cf3.png?r=fsn" width="200" alt="Clément EHINGER's Dev Card"/></a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cehinger&theme=radical)
 _______________________________________________
 ### Je suis développeur!
 Depuis maintenant 2 ans, j'ai découvert l'informatique et j'ai tout de suite adoré le développement.
 J'ai décidé d'en apprendre les technologies et ses différents langages
+
+<a href="https://app.daily.dev/khlemant"><img src="https://api.daily.dev/devcards/3467bfa6679e4d5aad19bdba16ac1cf3.png?r=fsn" width="200" alt="Clément EHINGER's Dev Card"/></a>
 
 _______________________________________________
 ### Languages maitrisés :
